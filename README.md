@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshikCoder
+- 👋 Hi, I’m @Ashik
 - 👀 I’m interested in learning new stuffs
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on people with curosity
